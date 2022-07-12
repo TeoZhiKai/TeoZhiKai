@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @TeoZhiKai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, my name is Zhi Kai
+#### I am Student in NTU
+Project created was part of a learning process and interest in particular topic.  
 
-<!---
-TeoZhiKai/TeoZhiKai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: JS / HTML / CSS / PYTHON / C / C# / C++ / DART / LUA / SQL / SWIFT
+
+- 🌱 I’m currently learning Swift 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TeoZhiKai)  
 
