@@ -13,6 +13,7 @@ Skills: JS / HTML / CSS / PYTHON / C / C# / C++ / DART / LUA / SQL / SWIFT
 House-in: Public housing information, get estimated prices of the house  
 Function: Posting rent, estimate price of house from potential grant avaliable to buyer, machine learning price prediction base on listed parameter.  
 [image]
+![](https://github.com/TeoZhiKai/TeoZhiKai/blob/main/Housin_rento.gif)  
 
 # Example of Some of the Work
 Crates: Food Donation app, match potential donor to donee  
