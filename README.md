@@ -15,7 +15,7 @@ Function: Posting rent, estimate price of house from potential grant avaliable t
 [image]
 
 # Example of Some of the Work
-Crates: Food Donation app, match potential donor to donee
+Crates: Food Donation app, match potential donor to donee  
 <img src="https://user-images.githubusercontent.com/73381439/178646195-e172688d-bc4b-4483-b62f-47052699ffc0.png" width="100" > <img src="https://user-images.githubusercontent.com/73381439/178646412-378e36e0-8a23-4591-81c5-ec7027322dc2.png" width="100" > 
 
 
