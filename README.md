@@ -7,8 +7,8 @@ Module Taken: Advance Software engineering / Software System Analysis and design
 
 - 🌱 I’m currently learning Swift 
 
-https://github.com/TeoZhiKai/TeoZhiKai/blob/main/info-gif/bannergif.gif
-<img src="https://github.com/TeoZhiKai/TeoZhiKai/blob/main/info-gif/bannergif.gif" width="1500" >
+
+<img src="https://github.com/TeoZhiKai/TeoZhiKai/blob/main/info-gif/bannergif.gif" width="1500" height="500" >
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TeoZhiKai)  
