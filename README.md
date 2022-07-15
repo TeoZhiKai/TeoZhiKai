@@ -8,9 +8,6 @@ Module Taken: Advance Software engineering / Software System Analysis and design
 - 🌱 I’m currently learning Swift 
 
 
-<img src="https://github.com/TeoZhiKai/TeoZhiKai/blob/main/info-gif/bannergif.gif" width="1500" height="300" >
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TeoZhiKai)  
 
 # Example of Some of the Work  
@@ -23,4 +20,4 @@ Function: Posting rent, estimate price of house from potential grant avaliable t
 **Crates**: Food Donation app, match potential donor to donee  
 <img src="https://user-images.githubusercontent.com/73381439/178646195-e172688d-bc4b-4483-b62f-47052699ffc0.png" width="100" > <img src="https://user-images.githubusercontent.com/73381439/178646412-378e36e0-8a23-4591-81c5-ec7027322dc2.png" width="100" > 
 
-
+<img src="https://github.com/TeoZhiKai/TeoZhiKai/blob/main/info-gif/bannergif.gif" width="1500" height="500" >
