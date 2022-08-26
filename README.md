@@ -2,7 +2,7 @@
 #### I am Student in NTU
 Project created as part of a learning process and interest in the particular topic. I enjoy doing UI, and UX design in general. Reading interesting deep learning papers from time to time and I'm excited to create some projects regarding it. 
 
-Skills: JS / HTML / CSS / PYTHON / C / C# / C++ / DART / LUA / SQL / SWIFT  
+Skills: JS / HTML / CSS / PYTHON / C / C# / C++ / DART / LUA / SQL / THREE.JS / SWIFT  
 Module Taken: Advance Software engineering / Software System Analysis and design / Computer Security / Neural Network and Deep Learning
 
 - 🌱 I’m currently learning Swift 
