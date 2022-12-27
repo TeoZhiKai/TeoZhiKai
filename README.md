@@ -5,7 +5,6 @@ Project created as part of a learning process and interest in the particular top
 Skills: JS / HTML / CSS / PYTHON / C / C# / C++ / DART / LUA / SQL / THREE.JS / SWIFT  
 Module Taken: Advance Software engineering / Software System Analysis and design / Computer Security / Neural Network and Deep Learning
 
-- 🌱 I’m currently learning Swift 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TeoZhiKai)  
