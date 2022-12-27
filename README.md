@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Zhi Kai
-#### I am Student in NTU
+#### I am recent Graduate at NTU. 
 Project created as part of a learning process and interest in the particular topic. I enjoy doing UI, and UX design in general. Reading interesting deep learning papers from time to time and I'm excited to create some projects regarding it. 
 
 Skills: JS / HTML / CSS / PYTHON / C / C# / C++ / DART / LUA / SQL / THREE.JS / SWIFT  
